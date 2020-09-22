@@ -1,2 +1,1 @@
-# -Personal-study-prac-kor-embedding
-# 네이버 영화평 SA
+# 네이버 영화평 Sentiment Analysis
