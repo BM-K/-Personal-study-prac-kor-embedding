@@ -1,1 +1,1 @@
-# 네이버 영화평 Sentiment Analysis
+vectors = Vectors(name="kr-projected.txt")
